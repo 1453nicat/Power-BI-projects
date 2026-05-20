@@ -1,4 +1,4 @@
-# Power_BI-Diabetes
+# Power BI: **Diabetes**
 
 This Power BI project offers a detailed analysis of patient health data, focusing on metrics such as patient outcomes, insulin levels, glucose levels, BMI, and diabetes pedigree groups. It aims to provide actionable insights into health trends and risk factors.
 
