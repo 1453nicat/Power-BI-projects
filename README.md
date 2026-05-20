@@ -16,7 +16,7 @@ Each project includes the Power BI report file, dataset, preview image, and a pr
 ```text
 Power-BI-projects/
 │
-├── repo/
+├── Projects/
 │   ├── sales-dashboard/
 │   │   ├── sales.xlsx
 │   │   ├── sales.pbix
